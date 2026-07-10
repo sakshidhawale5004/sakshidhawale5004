@@ -86,13 +86,6 @@ const sakshiDhawale = {
 
 ## 🌆&nbsp; 3D Contribution Skyline
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-3d-contrib.vercel.app/?username=sakshidhawale5004&theme=onedark" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🤝&nbsp; Connect With Me
 
