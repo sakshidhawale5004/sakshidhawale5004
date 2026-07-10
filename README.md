@@ -65,10 +65,7 @@ const sakshiDhawale = {
 
 ## 📊&nbsp; GitHub Stats
 
-<div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sakshidhawale5004&show_icons=true&theme=nord&border_color=f59e0b&title_color=f59e0b&icon_color=fbbf24&text_color=c9d1d9&bg_color=0d1117&hide_border=false&rank_icon=github" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshidhawale5004&layout=compact&theme=nord&border_color=f59e0b&title_color=f59e0b&text_color=c9d1d9&bg_color=0d1117&hide_border=false" />
 
 <br/>
 
@@ -78,17 +75,12 @@ const sakshiDhawale = {
 
 ## 🏆&nbsp; Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakshidhawale5004&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=18&margin-h=18" />
-
-</div>
 
 ## 📈&nbsp; Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidhawale5004&theme=github-compact&hide_border=true&color=f59e0b&line=f59e0b&point=fbbf24&area=true&area_color=fbbf24&bg_color=0D1117" />
 
 </div>
 
